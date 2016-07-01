@@ -18,7 +18,7 @@
 | **Wales**                 |      0 |     0 |             0 |           0 |    0 |         0 |            0 |  **0** |
 | **England**               |      0 |     0 |             0 |           0 |    0 |         0 |            0 |  **0** |
 | **Slowakei**              |      0 |     0 |             0 |           0 |    0 |         0 |            0 |  **0** |
-| ~~Russland~~              |      0 |     0 |             0 |           0 |    0 |         0 |            0 |  **0** |
+| ~~Russland~~              |      3 |     0 |             1 |           2 |    2 |         6 |           -4 |  **1** |
 
 #### Gruppe C
 |                           | Spiele | Siege | Unentschieden | Niederlagen | Tore | Gegentore | Tordifferenz | Punkte |
